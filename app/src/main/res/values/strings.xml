@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAMflix</string>
+    <string name="avatar_desc">Avatar del usuario</string>
+    <string name="user_name">Laura Gómez</string>
+    <string name="user_rol">Crítico de Cine</string>
+    <string name="estadisticas_peliculas">%1$d Películas Vistas</string>
+    <string name="estadisticas_resenas">%1$d Reseñas</string>
+</resources>
